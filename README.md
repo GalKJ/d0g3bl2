@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi :wave: My name is Gal, welcome to my profile :smile:
+
+## What I'm currently working on ...
+
+
+
+
 
 <!--
 **d0g3bl2/d0g3bl2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
