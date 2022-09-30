@@ -2,7 +2,7 @@
 
 ## What I'm currently working on ...
 
-I'm currently part of the [Founders](https://www.foundersandcoders.com/)
+I'm currently part of the [Founders and Coders](https://www.foundersandcoders.com/) FAC26 cohort 🎏
 
 
 
