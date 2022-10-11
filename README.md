@@ -10,7 +10,7 @@ Hi :wave: My name is Gal (they/them) and I'm a 🌱 growing software developer �
 
 ---
 
-## What I'm currently pursuing 🐾
+# What I'm currently pursuing 🐾
 
 I'm friendly and keen member of [Founders and Coders](https://www.foundersandcoders.com/) FAC26 cohort 🎏
 
@@ -31,8 +31,9 @@ We work in teams 🙂☺️😃 supporting and learning from one another while b
 2. Accessible online creative spaces 
 3. Communication between teams 
 
-# What makes me happy 🪅
-
+# What currently makes me happy 🪅
+1. Cycling 🚲
+2. Reading Dune on my Kobo E-reader 📚
 
 
 
