@@ -19,6 +19,7 @@ We work in teams 🙂☺️😃 supporting and learning from one another while b
 8. Fetch requests 
 
 ### What I'm interested in 🫠
+1. Developer experience 
 
 
 
