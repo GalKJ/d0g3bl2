@@ -12,7 +12,7 @@ Hi :wave: My name is Gal (they/them) and I'm a 🌱 growing software developer �
 
 ## What I'm currently pursuing 🐾
 
-I'm currently part of the [Founders and Coders](https://www.foundersandcoders.com/) FAC26 cohort 🎏
+I'm friendly and keen member of [Founders and Coders](https://www.foundersandcoders.com/) FAC26 cohort 🎏
 
 We work in teams 🙂☺️😃 supporting and learning from one another while building strong friendships 💪
 
