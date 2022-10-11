@@ -8,7 +8,7 @@ I'm currently part of the [Founders and Coders](https://www.foundersandcoders.co
 
 We work in teams 🙂☺️😃 supporting and learning from one another while building strong friendships 💪
 
-### So far we've learnt about ✍️ -:
+### So far we've learnt about ✍️ 
 1. Git workflow 
 2. Consise CSS
 3. Semantic HTML
@@ -18,7 +18,7 @@ We work in teams 🙂☺️😃 supporting and learning from one another while b
 7. Promises 
 8. Fetch requests 
 
-### 
+### What I'm interested in 🫠
 
 
 
