@@ -1,6 +1,8 @@
 # Welcome 😁
 
-Hi :wave: My name is Gal (they/them), welcome to my profile :smile:
+Hi :wave: My name is Gal (they/them) and I'm a 🌱 sapling software developer 
+
+ :smile:
 
 ---
 
