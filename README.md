@@ -14,6 +14,7 @@ We work in teams 🙂☺️😃 supporting and learning from one another while b
 3. Semantic HTML
 4. Accessibility
 5. Javascript arrays
+6. Asynchronous JavaScript  
 
 
 
