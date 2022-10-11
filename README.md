@@ -1,10 +1,12 @@
-# Welcome 😁
+# 😁 Welcome 😁
 
-Hi :wave: My name is Gal (they/them) and I'm a 🌱 sapling software developer 
-
- :smile:
+Hi :wave: My name is Gal (they/them) and I'm a 🌱 growing software developer 🧑🏻‍💻 
 
 ---
+
+# 😊 About me 
+
+
 
 ## What I'm currently working on ...
 
