@@ -20,6 +20,8 @@ We work in teams 🙂☺️😃 supporting and learning from one another while b
 
 ### What I'm interested in 🫠
 1. Developer experience 
+2. Accessible online creative spaces 
+3. Communication between teams 
 
 
 
