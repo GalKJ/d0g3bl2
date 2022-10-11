@@ -15,6 +15,7 @@ We work in teams 🙂☺️😃 supporting and learning from one another while b
 4. Accessibility
 5. Javascript arrays
 6. Asynchronous JavaScript  
+7. Promises 
 
 
 
