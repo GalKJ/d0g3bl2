@@ -26,7 +26,7 @@ We work in teams 🙂☺️😃 supporting and learning from one another while b
 7. Promises 
 8. Fetch requests 
 
-### What I'm interested in 🫠
+### Developer interests 🫠
 1. Developer experience 
 2. Accessible online creative spaces 
 3. Communication between teams 
