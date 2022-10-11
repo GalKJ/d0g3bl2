@@ -1,4 +1,4 @@
-# Hi :wave: My name is Gal, welcome to my profile :smile:
+# Hi :wave: My name is Gal (they/them), welcome to my profile :smile:
 
 ---
 
