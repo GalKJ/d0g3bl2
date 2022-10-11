@@ -4,9 +4,11 @@ Hi :wave: My name is Gal (they/them) and I'm a 🌱 growing software developer �
 
 ---
 
-# 😊 About me 
+# 😊 Contact me 
 
+📬 d0g3bl2@gmail.com
 
+---
 
 ## What I'm currently working on ...
 
