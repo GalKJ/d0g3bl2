@@ -34,11 +34,13 @@ We work in teams 🙂☺️😃 supporting and learning from one another while b
 1. Developer experience 
 2. Accessible online creative spaces 
 3. Communication between teams 
+4. Mobb/Ensemble programming 
 
 # What currently makes me happy 🪅
 1. Cycling 🚲
 2. Reading Dune on my Kobo E-reader 📚
-
+3. Execute Programme 🧩
+4.
 
 
 
