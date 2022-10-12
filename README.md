@@ -18,7 +18,7 @@ from being part of dynamic ensembles in the creative industries to software deve
 
 I'm a friendly and keen member of [Founders and Coders](https://www.foundersandcoders.com/) FAC26 cohort 🎏
 
-We work in teams 🙂☺️😃 supporting and learning from one another while building strong friendships 💪
+We work in teams 🙂☺️😃 supporting and learning from one another while building strong friendships 💪 and skill bases 🤹
 
 ### So far we've learnt about ✍️ 
 1. Git workflow 
