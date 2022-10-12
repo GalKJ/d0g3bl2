@@ -7,7 +7,8 @@ with 25 years experience in the theatre and film industries 🎭
 
 # 😊 About me 
 
-I bring the same enthusiasm, focus, communication and compassion from working in theatre ensembles to software development teams I am part of
+I bring the enthusiasm, focus, communication skills and compassion I have developed 
+from being part of dynamic ensembles in stage and screen to software development teams I am part of 🤝
 
 📬 d0g3bl2@gmail.com
 
