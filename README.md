@@ -5,7 +5,9 @@ with 25 years experience in the theatre and film industries 🎭
 
 ---
 
-# 😊 Contact me 
+# 😊 About me 
+
+I bring the same enthusiasm, focus, communication and compassion from working in theatre ensembles to software development teams I am part of
 
 📬 d0g3bl2@gmail.com
 
