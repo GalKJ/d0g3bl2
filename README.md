@@ -1,6 +1,7 @@
 # 😁 Welcome 😁
 
 Hi :wave: My name is Gal (they/them) and I'm a 🌱 growing software developer 🧑🏻‍💻 
+with 25 years experience in the theatre and film industries 🎭 
 
 ---
 
