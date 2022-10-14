@@ -37,12 +37,8 @@ We work in teams 🙂☺️😃 supporting and learning from one another while b
 4. Mobb/Ensemble programming 
 
 # What currently makes me happy 🪅
-1.🚲
-2. Reading Dune on my Kobo E-reader 📚
-3. Execute Programme 🧩
-4. Coding along to Wes Bos JS courses 🧑‍💻
-5. Configurating my Linux laptop (it has a new lease of life 🧟)
-
+1. Dismantling and re-building my fixed gear bicycle🚲
+2. Reading Dune on my Kobo e-reader 
 
 <!--
 **d0g3bl2/d0g3bl2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
