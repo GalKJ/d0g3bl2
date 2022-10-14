@@ -41,7 +41,7 @@ We work in teams 🙂☺️😃 supporting and learning from one another while b
 2. Reading Dune on my Kobo E-reader 📚
 3. Execute Programme 🧩
 4. Coding along to Wes Bos JS courses 🧑‍💻
-
+5. Configurating my Linux laptop (it has a new lease of life 🧟)
 
 
 <!--
