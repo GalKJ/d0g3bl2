@@ -37,7 +37,7 @@ We work in teams 🙂☺️😃 supporting and learning from one another while b
 4. Mobb/Ensemble programming 
 
 # What currently makes me happy 🪅
-1.Dismantling and re-building my fixed gear bicycle 🚲
+1.🚲
 2. Reading Dune on my Kobo E-reader 📚
 3. Execute Programme 🧩
 4. Coding along to Wes Bos JS courses 🧑‍💻
