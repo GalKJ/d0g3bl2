@@ -40,7 +40,7 @@ We work in teams 🙂☺️😃 supporting and learning from one another while b
 1. Cycling 🚲
 2. Reading Dune on my Kobo E-reader 📚
 3. Execute Programme 🧩
-4.
+4. Coding along to Wes Bos JS courses 🧑‍💻
 
 
 
