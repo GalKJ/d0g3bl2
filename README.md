@@ -23,10 +23,8 @@ We work in teams 🙂☺️😃 supporting and learning from one another while b
 ### Favorite study subjects ✍️ 
 1. Git workflow 
 2. Accessibility
-5. Javascript arrays
-6. Asynchronous JavaScript  
-7. Promises 
-8. Fetch requests 
+3. Javascript arrays
+4. Fetch requests 
 
 ### Developer interests 🫠
 1. Developer experience 
