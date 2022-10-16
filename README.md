@@ -20,7 +20,7 @@ I'm a friendly and keen member of [Founders and Coders](https://www.foundersandc
 
 We work in teams 🙂☺️😃 supporting and learning from one another while building strong friendships 💪 and skill bases 🤹
 
-### So far we've learnt about ✍️ 
+### Favorite study subjects ✍️ 
 1. Git workflow 
 2. Consise CSS
 3. Semantic HTML
