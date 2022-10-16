@@ -22,9 +22,7 @@ We work in teams 🙂☺️😃 supporting and learning from one another while b
 
 ### Favorite study subjects ✍️ 
 1. Git workflow 
-2. Consise CSS
-3. Semantic HTML
-4. Accessibility
+2. Accessibility
 5. Javascript arrays
 6. Asynchronous JavaScript  
 7. Promises 
