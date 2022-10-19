@@ -5,7 +5,7 @@ with 25 years experience in the theatre and film industries 🎭
 
 ---
 
-# 😊 About me 
+# 😊 About me 😊
 
 I bring the enthusiasm, focus, communication skills and compassion I have developed 
 from working in dynamic ensembles in the creative industries to software development teams I am part of 🤝
