@@ -21,10 +21,10 @@ I'm a friendly and keen member of [Founders and Coders](https://www.foundersandc
 We work in teams 🙂☺️😃 supporting and learning from one another while building strong friendships 💪 and skill bases 🤹
 
 ### Favorite study subjects ✍️ 
-1. Git workflow 
-2. Accessibility
-3. Javascript arrays
-4. Fetch requests 
+- Git workflow 
+- Accessibility
+- Javascript arrays
+- Fetch requests 
 
 ### Developer interests 🫠
 1. Developer experience 
