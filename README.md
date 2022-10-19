@@ -16,7 +16,7 @@ from working in dynamic ensembles in the creative industries to software develop
 
 # What I'm currently pursuing 🐾
 
-I'm a friendly and keen member of [Founders and Coders](https://www.foundersandcoders.com/) FAC26 cohort 🎏
+I'm a friendly, competent and enthusiastic member of [Founders and Coders](https://www.foundersandcoders.com/) FAC26 cohort 🎏
 
 We work in teams 🙂☺️😃 supporting and learning from one another while building strong friendships 💪 and skill bases 🤹
 
