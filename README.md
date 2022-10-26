@@ -31,6 +31,7 @@ We work in teams 🙂☺️😃 supporting and learning from one another while b
 2. Accessible online creative spaces 
 3. Communication between teams 
 4. Mobb/Ensemble programming 
+5. Vim
 
 # What currently makes me happy 🪅
 1. Dismantling and re-building my fixed gear bicycle 🚲
