@@ -39,5 +39,6 @@ We work in teams 🙂☺️😃 supporting and learning from one another while b
 3. Execute Programme 🧩
 4. Coding along to Wes Bos JS 🧑‍💻
 5. Configurating my Linux OS on an old laptop (it has a new lease of life 🧟)
+6. Learning Vim motions ⌨️
 
 ✨✨✨
